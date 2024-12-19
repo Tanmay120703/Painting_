@@ -52,33 +52,6 @@ Objective
 
 * Factors influencing the pricing and popularity of paintings
 
-# Results
-
-Artist Highlights
-
-The top-selling artist contributed 25% to overall sales.
-
-Emerging artists showed a significant sales increase in modern styles, contributing to 30% of total revenue in recent years.
-
-Art Style Trends
-
-Impressionism and Modern Art styles dominated the sales figures, with a combined 45% share.
-
-Historical analysis revealed a resurgence in the popularity of Renaissance art during the last decade.
-
-Pricing Analysis
-
-Paintings with larger dimensions commanded higher average prices.
-
-Seasonal exhibitions increased sales volume by 18% compared to non-exhibition periods.
-
-Top Performers
-
-High-value auctions consistently highlighted iconic works, accounting for 60% of premium sales.
-
-Smaller, unique collections gained traction among niche collectors.
-
-
 # Prerequisites
 
 * PostgreSQL installed locally or hosted in the cloud for executing the SQL scripts.
@@ -130,5 +103,21 @@ Smaller, unique collections gained traction among niche collectors.
  17: Identify the artist and the museum where the most expensive and least expensive painting is placed. 
  Display the artist name, sale_price, painting name, museum name, museum city
 
+# Results
 
+* Artist Highlights
+
+* The top-selling artist contributed 25% to overall sales.
+
+* Emerging artists showed a significant sales increase in modern styles, contributing to 30% of total revenue in recent years.
+
+* Art Style Trends
+
+* Impressionism and Modern Art styles dominated the sales figures, with a combined 45% share.
+
+* Historical analysis revealed a resurgence in the popularity of Renaissance art during the last decade.
+
+* Pricing Analysis
+
+* Paintings with larger dimensions commanded higher average prices.
 
